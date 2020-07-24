@@ -1,6 +1,6 @@
 #!make -f
 
-CXX=clang++-9 
+CXX=clang++-10
 CXXFLAGS=-std=c++2a
 
 HEADERS := $(wildcard *.h*)
